@@ -22,11 +22,11 @@ print data
 # 리스트 데이터 제거
 data.pop()
 print data
-data.pop
+data.pop()
 print data
 # 리스트 요소 인덱스 검색
 print data.index("hi")
-# index apthem tlfvotl dpfj qkftod
+# index 메소드 실패시 
 # print data.index("hi222")
 
 # 사전(딕셔너리)
