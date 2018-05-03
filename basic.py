@@ -26,7 +26,11 @@ data.pop()
 print data
 # 리스트 요소 인덱스 검색
 print data.index("hi")
+<<<<<<< HEAD
 # index 메소드 실패시 에러 발생
+=======
+# index 메소드 실패시 
+>>>>>>> b0cca7cd01082c7835cfee0af02afd4eb70ce3d7
 # print data.index("hi222")
 
 # 사전(딕셔너리)
@@ -59,6 +63,7 @@ elif num % 2 == 1:
 else:
     print "????"
  
+<<<<<<< HEAD
  # 함수
 def addition(numbers):
     result = 0
@@ -131,3 +136,5 @@ ipaddress, port = re.findall(r"\d+\.\d+\.\d+\.\d+\/\d+", html)[0].split('/')
 
 print "ip:", ipaddress, "port:", port
 
+=======
+>>>>>>> b0cca7cd01082c7835cfee0af02afd4eb70ce3d7
